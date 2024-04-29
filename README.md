@@ -65,7 +65,7 @@
 <img width="773" alt="Screenshot_8b" src="https://github.com/NuongLe123/RFM_analysis/assets/168357450/6518d176-4178-4806-92a2-76fab5d0f129">
 
 - Result:
-  <img width="806" alt="Screenshot_8" src="https://github.com/NuongLe123/RFM_analysis/assets/168357450/874916ff-14db-4c6d-918d-d307c19f15d3">
+<img width="806" alt="Screenshot_8" src="https://github.com/NuongLe123/RFM_analysis/assets/168357450/874916ff-14db-4c6d-918d-d307c19f15d3">
   
 ## Part 4. Conclusion
 - In conclusion, my exploration of the eCommerce dataset using SQL on Google BigQuery based on the Google Analytics dataset has revealed interesting insights of the customer behavior through the bounce rate, transaction, revenue, visit, and purchase.
