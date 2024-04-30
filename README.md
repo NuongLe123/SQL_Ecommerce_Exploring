@@ -70,4 +70,4 @@
 ## Part 4. Conclusion
 - In conclusion, my exploration of the eCommerce dataset using SQL on Google BigQuery based on the Google Analytics dataset has revealed interesting insights of the customer behavior through the bounce rate, transaction, revenue, visit, and purchase.
 - Hence, the company will decide which effective marketing channels enhance traffic and sales by considering referral sources, improving marketing ROI.
-- To have insights and key trends, the next step will visualize the data with some software like Power BI and Tableau.
+- To have insights and key trends, the next step will be visualization the data with some software like Power BI and Tableau.
