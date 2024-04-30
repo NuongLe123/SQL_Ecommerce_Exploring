@@ -11,6 +11,8 @@
 - Transactions analysis
 - Products analysis
 ## Part 3. Business questions
+For more details about the results of the queries, please follow the link: https://console.cloud.google.com/bigquery?sq=277003598955:76d34ad508dc46188d48b81e4f65116e
+
 ### 1. Calculate total visits, pageview, transaction, and revenue for Jan, Feb, and March 2017
 <img width="774" alt="Screenshot_1" src="https://github.com/NuongLe123/RFM_analysis/assets/168357450/90a34456-f0e8-406c-b824-61bee87b898a">
 
